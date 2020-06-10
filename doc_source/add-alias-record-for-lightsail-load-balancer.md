@@ -1,3 +1,5 @@
+"COVID19",
+
 # Point your domain to your Lightsail load balancer<a name="add-alias-record-for-lightsail-load-balancer"></a>
 
  *Last updated: May 28, 2020* 
